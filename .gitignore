@@ -1,0 +1,17 @@
+node_modules/
+dist/
+lib/
+output/
+*.log
+.env
+.env.local
+*.imodel
+*.bim
+*.db
+*.db-wal
+*.db-shm
+temp/
+cache/
+.DS_Store
+briefcases/
+.configStore/
