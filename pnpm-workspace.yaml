@@ -1,5 +1,2 @@
 onlyBuiltDependencies:
   - '@bentley/imodeljs-native'
-
-patchedDependencies:
-  '@itwin/ecschema-metadata': patches/@itwin__ecschema-metadata.patch
